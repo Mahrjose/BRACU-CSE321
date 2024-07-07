@@ -1,0 +1,29 @@
+=> Course 01
+CourseID : CSE470
+Course Name : Software Engineering
+Section : 12
+Course Credit : 3.00
+
+=> Course 02
+CourseID : CSE421
+Course Name : Computer Networks
+Section : 09
+Course Credit : 3.00
+
+=> Course 03
+CourseID : CSE321
+Course Name : Operating Systems
+Section : 05
+Course Credit : 3.00
+
+=> Course 04
+CourseID : BUS102
+Course Name : Business - Basics, Ethics & Environment
+Section : 13
+Course Credit : 3.00
+
+=> Course 05
+CourseID : MAT120
+Course Name : Mathematics II : Integral Calculus & Differential Equations & Differential Equations
+Section : 10
+Course Credit : 3.00

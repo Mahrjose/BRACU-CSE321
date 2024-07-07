@@ -1,0 +1,22 @@
+## Question 1a
+touch 21101048_1.txt 21101048_2.txt 21101048_3.txt 21101048_4.txt && mkdir Mahrab1 Mahrab2
+mv 21101048_1.txt 21101048_2.txt 21101048_3.txt ./Mahrab1
+cp Mahrab1/21101048_1.txt Mahrab1/21101048_2.txt ./Mahrab2
+mkdir Mahrab3
+cp -r Mahrab1/ Mahrab3/
+cd Mahrab3/
+ls -l
+chmod go=rx *
+cd ..
+ls -la
+sudo mv Mahrab3/ /
+rm -rf ./*
+
+## Question 1b
+grep -c 'CSE' course.txt
+
+## Question 1c
+sudo ls -a /
+
+## Question 1d
+head -n 17 poem.txt | tail -n +5
